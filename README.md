@@ -16,7 +16,7 @@ I am always eager to learn and adapt to new technologies, and I enjoy collaborat
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠  Languages and Tools</h2>
 
 ###
 
@@ -30,6 +30,10 @@ I am always eager to learn and adapt to new technologies, and I enjoy collaborat
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="40" alt="github logo"  />
   <img width="12" />
 </div>
 
