@@ -2,15 +2,17 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">I am a passionate and detail-oriented professional with expertise in embedded systems software development and Robotic Process Automation (RPA). With a strong foundation in programming languages such as C, C++, C# and Object-Oriented Programming (OOP), I thrive in designing and implementing efficient software solutions for complex systems.
 
-###
+As an RPA Developer and Automation Business Analyst, I specialize in leveraging tools like UiPath to automate business processes, improve operational efficiency, and drive digital transformation. My experience includes analyzing business requirements, designing automation workflows, and delivering scalable solutions that align with organizational goals.
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+I am particularly passionate about the intersection of robotics, automation, and software development, where I can apply my technical skills to solve real-world challenges. Whether it's developing embedded systems or automating repetitive tasks, I am committed to delivering high-quality results that make a tangible impact.
+
+I am always eager to learn and adapt to new technologies, and I enjoy collaborating with cross-functional teams to innovate and optimize processes. Let’s connect and explore how we can drive innovation together!</p>
 
 ###
 
